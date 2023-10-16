@@ -1,4 +1,3 @@
-# rockPaperScissors
 # Rock, Paper, Scissors Game with HMAC
 
 This is a console-based Rock, Paper, Scissors game with HMAC (Hash-based Message Authentication Code) for secure and fun gameplay.
