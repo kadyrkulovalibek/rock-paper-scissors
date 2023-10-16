@@ -1,0 +1,17 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "This is a console-based Rock, Paper, Scissors game with HMAC (Hash-based Message Authentication Code) for secure and fun gameplay.",
+  "main": "rockPaperScissors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "csprng": "^0.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}

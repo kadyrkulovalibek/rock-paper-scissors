@@ -1,2 +1,5 @@
-package-lock.js
-node_moodules/
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore node_modules directory
+node_modules/
